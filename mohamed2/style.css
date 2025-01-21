@@ -1,0 +1,24 @@
+#firstDiv {
+    width: 80%;
+    max-width: 100;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    border: 10px dotted rgb(0, 42, 255);
+    border-radius: 50px;
+    
+}
+body {
+    background-color: red;
+    background-image: linear-gradient(red, rgb(8, 4, 4));
+    min-height: 100px;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+}
+#WhatsApp {
+    background-color: rgb(255, 0, 0);
+    border-radius: 50px;
+    
+}
